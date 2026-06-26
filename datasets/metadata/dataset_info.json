@@ -1,0 +1,9 @@
+{
+    "train_samples": 43410,
+    "validation_samples": 5426,
+    "test_samples": 5427,
+    "total_samples": 54263,
+    "num_emotions": 28,
+    "avg_labels_per_sample": 1.176,
+    "max_labels_per_sample": 5
+}

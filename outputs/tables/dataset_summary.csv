@@ -1,8 +1,8 @@
 Metric,Value
-Samples,211225
-Features,31
-Emotion Labels,28
-Missing Values,0
-Duplicate Rows,56737
-Duplicate Text,153493
-Empty Text,0
+train_samples,43410.0
+validation_samples,5426.0
+test_samples,5427.0
+total_samples,54263.0
+num_emotions,28.0
+avg_labels_per_sample,1.176
+max_labels_per_sample,5.0
